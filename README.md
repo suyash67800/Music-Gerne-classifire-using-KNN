@@ -62,8 +62,4 @@ From each audio file, the following features are extracted and saved:
 
 ---
 
-## Results
 
-- *Training Accuracy*: ~X%  
-- *Testing Accuracy*: ~Y%  
-(You can replace X and Y with your actual results)
